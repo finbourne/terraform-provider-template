@@ -36,6 +36,7 @@ func resourceDir() *schema.Resource {
 				Description:  "Variables to substitute",
 				ValidateFunc: validateVarsAttribute,
 				ForceNew:     true,
+				Sensitive:    true,
 			},
 			"destination_dir": {
 				Type:        schema.TypeString,
