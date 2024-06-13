@@ -1,3 +1,5 @@
+![LUSID_by_Finbourne](./resources/Finbourne_Logo_Teal.svg)
+
 <!-- archived-provider -->
 This Terraform provider is archived, per our [provider archiving process](https://terraform.io/docs/internals/archiving.html). What does this mean?
 
